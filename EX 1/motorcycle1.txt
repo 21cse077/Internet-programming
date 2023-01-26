@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<title>VEHICLES</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>1.MOTORCYCLES</h1>
+<img src="C:\Users\user\Downloads\IMG_20230125_195731.jpg" alt="VEHICLES" usemap="#vehicles">
+<map name="vehicles">
+<p>Because of new technology, there are entries of multiple new features across all vehicles.
+...
+10 Latest Features That Many Bikes Will See In 2022</p><br>
+<ol>
+<li>Dual channel ABS</li>
+<li>Rear Lift Prevention</li>
+<li>Adjustable suspension</li>
+<li>Hazards Lights</li>
+<li>Adjustable brakes and clevers</li>
+<li>Tyre punctor kit with protable inflator</li>
+</ol><br>
+<p>Technology is constantly evolving and has impacted every aspect of our lives, including driving. Driving on the road, as recently as 20 years ago, was a far cry from what it looks like today. In those days, driving was a tasking exercise that could seem daunting at times. You relied mainly on your wits and continuously had to go through a mental checklist as you moved around from place to place.</p>
+</body>
+</html>

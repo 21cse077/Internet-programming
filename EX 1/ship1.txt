@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<title>VEHICLES</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>SHIP</h1>
+<img src="C:\Users\user\Downloads\IMG_20230125_201237.jpg" alt="VEHICLES" usemap="#vehicles">
+<map name="vehicles">
+<p> A ship is a large watercraft that travels the world's oceans and other sufficiently deep waterways, carrying cargo or passengers, or in support of specialized missions, such as defense, research and fishing. Ships are generally distinguished from boats, based on size, shape, load capacity and purpose. Ships have supported exploration, trade, warfare, migration, colonization and science. After the 15th century, new crops that had come from and to the Americas via the European seafarers significantly contributed to world population growth.[1] Ship transport is responsible for the largest portion of world commerce.
+
+</p><br>
+<h2>features</h2>
+<ol>
+<li>More economical than other transport methods</li>
+<li>Enables dangerous goods to be transported</li>
+<li>Less polluting than other modes of transport and promotes green logistics</li>
+<li>The main transport mode for global trade is ocean shipping</li>
+</ol>
+</body>
+</html>

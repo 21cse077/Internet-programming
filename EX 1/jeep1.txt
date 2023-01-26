@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<title>cab</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>JEEP</h1>
+<img src="C:\Users\user\Downloads\IMG_20230125_193919.jpg" usemap="#vehicles">
+<map name="vehicles">
+<p>Jeep is an American automobile marque, now owned by multi-national corporation Stellantis. Jeep has been part of Chrysler since 1987, when Chrysler acquired the Jeep brand, along with remaining assets, from its previous owner American Motors Corporation.</p><br>
+<h2>features</h2>
+<p>The Jeep Compass is available in Petrol engine, giving a fuel efficiency of 16.3 km/litre. Looking at its technical specifications, it produces a power of 162PS@3750rpm and a maximum torque of 250Nm@1750-2500rpm. With a price quote of Rs. 19.96 Lakh, it stands at a decent price point within its segment. It has a fuel capacity of 60 litres. It gives a mileage of in cities! The dimensions are Length - 4395 mm, Width 1818 mm Height 1640 mm. Jeep Compass has the following features: Integrated Voice Command, Electronic Rollover Mitigation, Dual Node Electric Horns.
+
+</p>
+<br><h2>Different models</h2>
+<p>there are three main types of Jeep Wranglers: the Sport, Sahara, and Rubicon. In addition to these models, there are also special editions available that vary from year to year
+
+Technology is constantly evolving and has impacted every aspect of our lives, including driving. Driving on the road, as recently as 20 years ago, was a far cry from what it looks like today. In those days, driving was a tasking exercise that could seem daunting at times. You relied mainly on your wits and continuously had to go through a mental checklist as you moved around from place to place.</p>
+
+</body>
+</html>

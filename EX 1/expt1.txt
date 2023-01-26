@@ -1,0 +1,26 @@
+!doctype html>
+<html>
+<head>
+<title>VEHICLES</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>1. CLICK ON  JEEP<br>
+        or<br>
+2. CLICK ON MOTOR CYCLE<br>
+        or <br>
+3. CLICK ON SHIP</h1>
+<img src="C:\Users\user\Downloads\Screenshot_2023-01-25-19-12-28-718_com.google.android.apps.docs.png" alt="VEHICLES" usemap="#vehicles">
+<map name="vehicles">
+<area shape="poly" coords="367,37,373,35,395,35,393,52,371,53,353,53,323,71,344,71,359,71,383,68,379,86,354,85,330,85,317,80" href="jeep1.html">
+<area shape="poly" coords="218,150,263,152,262,173,277,188,275,198,257,197,237,193,221,187,209,190,202,200.201,187,208,176,237,177,266,177,249,170" href="motorcycle1.html" target="_blank">
+<area shape="poly" coords="135,261,140,279,139,294,157,310,169,319,156,319,156,319,142,319,132,117,319,105,319,92,315,82,304,72,287,116,302,131,305,151,309" href="ship1.html" target="_blank">
+</html>
+</body>
