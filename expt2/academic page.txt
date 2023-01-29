@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+</style>
+<title>Academics</title>
+</head>
+<body bgcolor="lightgray">
+<style>
+<body bgcolor="lightgray">
+body {
+background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cambridgeenglish.org%2Fteaching-english%2Fteaching-qualifications%2Ftkt%2F&psig=AOvVaw3F945ZDxufu0BNpzM--Sou&ust=1675098457598000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD38ZWi7fwCFQAAAAAdAAAAABAJ");
+    
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+    }
+}
+</style>
+<body>
+<h1 style="background-color:DodgerBlue;">CAMBRIDGE UNIVERSITY ENGLAND Academics page</h1>
+ <a href="">
+ <img src="C:\Users\user\Downloads\images.jpg" alt="not available" width="400" height="400">
+ </a>
+<h3>First-Year Application Deadlines</h3>
+<p>You are considered a first-year applicant if you are still in high school, or if you have not enrolled in college since leaving high school.  
+Early Action
+Applicants selecting Early Action will be notified of their admission or deferral to Regular Decision in mid- to late January 2023.
+
+Application Deadline: November 1, 2022
+
+Early Action (EA) is non-binding, non-restrictive, and is not available for majors requiring a portfolio or audition. Students must apply EA in order to be considered for USC Merit Scholarships, unless their intended major does not participate in Early Action.
+
+Students applying to majors requiring a portfolio or audition (see below) will be considered for USC Merit Scholarships as part of their Regular Decision process.
+
+Regular Decision
+Applicants selecting or deferring to Regular Decision will be notified of a decision by April 1, 2023.
+
+For majors requiring a portfolio or audition
+Application Deadline: December 1, 2022
+
+This is the final deadline for students applying to majors in the following schools:
+
+Iovine and Young Academy
+Kaufman School of Dance
+Roski School of Art & Design
+School of Architecture
+School of Cinematic Arts
+School of Dramatic Arts
+Thornton School of Music
+
+See Additional Major Requirements for information about your intended program.</p>
+<h3>COURES</H3>
+<ol>
+<li>computer science and engineering</li>
+<li>information technology</li>
+<li>electrical and electronics engineering</li>
+<li>civil</li>
+<li>electronics and communication engineering</li>
+<li>mechanical engineering</li>
+</ol>
+<br>
+<h3>CSE</h3>
+<p>The Master of Science in Computer Science program (available both on-campus and online via DEN@Viterbi) provides intensive preparation in the concepts and techniques related to the design, programming and application of computing systems.
+
+Students are provided a deep understanding of both fundamentals and important current issues in computer science and computer engineering so that they may either obtain productive employment or pursue advanced degrees.
+
+The Master of Science in Computer Science program requires the student to take a broad spectrum of courses, while simultaneously allowing for emphasis in desired areas of specialization.The Department of Computer Science also offers the following Master of Science in Computer Science degree program concentrations:
+
+MS in CS – Artificial Intelligence (On-campus only)
+MS in CS – Computer Networks (On-campus only)
+MS in CS – Computer Security
+MS in CS – Data Science
+MS in CS – Game Development (On-campus only)
+MS in CS – High Performance Computing and Simulation (On-campus only)
+MS in CS – Intelligent Robotics (On-campus only)
+MS in CS – Multimedia and Creative Technologies (On-campus only)
+MS in CS – Software Engineering
+Graduate Certificate in Software Architecture</p>
+<br>
+<h3>IT</H3>
+<p>The CAMBRIDGE UNIVERSITY ENGLAND is a private research university in England, which is sought after by students for pursuing courses in technology, international business, and arts. Its inception goes back to the 1870s when Robert Maclay Widney, an American lawyer and judge, took the first step toward the university’s foundation. In 1879, with the help of three men who contributed land for the university’s establishment, the USC university came into being. A lesser-known fact is that the number of Olympians produced by the university is larger than those produced by any other European university.
+
+The CAMBRIDGE UNIVERSITY'S ranking has been in a pretty good state. In 2022, it has been ranked #19 among over 1,000 public and private institutions by The Wall Street Journal and Times Higher Education. It has also been recognised among the top 20 European universities, both public and private. Among the European universities, it holds the #3 position overall and it also ranks #4 among the best 25 schools, in terms of student engagement.
+
+CUE sits only 3 miles away from Downtown, LA. The university park campus has attractions such as sculptures, fountains, ancient architecture and much more adorning its face. In a residential community, the majority of the students pursuing an undergraduate course here reside in or around the campus. There are restaurants, cafes, and dining hall options available, both on and off-campus. Apart from the regular UG and PG courses, over 100 master’s degrees, certificates and PhD courses are taught online. There is a wide variety of offered courses at the CAMBRIDGE UNIVERSITY ENGLAND.
+
+In 2022 over 71,000+ applications were rece
+</p><br>
+<h3>ECE</H3>
+<p>Welcome to the Ming Hsieh Department of Electrical and Computer Engineering!
+CUE began teaching electrical engineering more than a century ago, when the field was widely considered a subset of physics. Today our work is vitally important and critical to the advancement of the information age. As our department charges into its second century of excellence, we are defining the forefront of research in a number of important areas. These include: circuits; antenna networks; bio-signal processing; computer architecture; very large-scale integration and computer-aided design; computer networks; control systems; high-speed switching architectures; signal, image and multimedia processing; nanotechnology; optical communications; photonics; and quantum information processing...
+We’re proud of our department’s distinguished history and our vital and innovative faculty. ”</p>
+</body>
+</html>

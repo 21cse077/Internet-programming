@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<title>CUE-HOME</title>
+<head>
+<style>
+.logo{
+float:left;
+}
+.dropdownbar{
+float:left;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.dropbtn {
+            color: white;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+          .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+ 
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px
+                0px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        .dropdown-content a:hover {
+            background-color: #f1f1f1
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #2D68C4;
+}
+</style>
+</head>
+<body>
+<div class="logo">
+<img src="C:\Users\user\Downloads\logo.png" alt="image not available" width="50" height="50">
+</div>
+<h1 style="color:#2D68C4;text-align:left;">CAMBRIDGE UNIVERSITY ENGLAND</h1>
+        <div class="dropdown">
+            <button class="dropbtn">
+               <div class="dropdownbar">
+                   <img src="C:\Users\user\Downloads\ropdownbar.png" width="50" height="50">
+               </div>
+            </button>
+            <div class="dropdown-content">
+                <a href="admission.html" target="_blank">Admissions</a>
+                <a href="academic page.html" target="_blank">Academics</a>
+                <a href="campus.html" target="_blank">Campus Life</a>
+            </div>
+         </div>
+    <img src="C:\Users\user\Downloads\lib.jpeg" alt="image not available">
+    <h2 style="color:#2D68C4;">WELCOME TO CUE!</h2>
+    <h2 style="color:#2D68C4;">WHY US??</h2>
+    <center>
+      <video width="500" height="300" controls>
+      <source src="C:\Users\user\Downloads\CUE.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+     </center>
+    <h2 style="color:#2D68C4;">ABOUT THE UNIVERSITY</h2>
+    <p>The University of Cambridge is a public collegiate research university in Cambridge, England.
+ Founded in 1209 and granted a royal charter by King Henry III in 1231, Cambridge is the world's third-oldest surviving university and one of its most prestigious, currently ranked second-best in the world and the best in Europe by QS World University Rankings.
+ Among the university's most notable alumni are 11 Fields Medalists, seven Turing Award winners, 47 heads of state, 14 British prime ministers, 194 Olympic medal-winning athletes,[11] and some of world history's most transformational and iconic figures across disciplines, including Francis Bacon, Lord Byron, Oliver Cromwell, Charles Darwin, Stephen Hawking, John Maynard Keynes, John Milton, Vladimir Nabokov, Jawaharlal Nehru, Isaac Newton, Bertrand Russell, Manmohan Singh, Alan Turing, Ludwig Wittgenstein, and others.
+ Cambridge alumni and faculty have won 121 Nobel Prizes, the most of any university in the world, according to the university.</p>
+    <p>The University of Cambridge is routinely ranked among the world's top five universities, and has sometimes been ranked as the world's best. 
+As of 2023, the University of Cambridge is ranked the second-best university in the world behind the Massachusetts Institute of Technology (MIT) by QS Rankings. 
+As of 2023, ARWU ranked Cambridge the best university in Europe and third best in the world behind Harvard and Stanford. 
+Times Higher Education ranks Cambridge the third best university in the world (tied with Stanford) in its 2023 rankings.</p>
+     <p>The University of Cambridge is routinely ranked among the world's top five universities, and has sometimes been ranked as the world's best. 
+As of 2023, the University of Cambridge is ranked the second-best university in the world behind the Massachusetts Institute of Technology (MIT) by QS Rankings. 
+As of 2023, ARWU ranked Cambridge the best university in Europe and third best in the world behind Harvard and Stanford. 
+Times Higher Education ranks Cambridge the third best university in the world (tied with Stanford) in its 2023 rankings.</p>
+     <p>The University of Cambridge issues a considerable number of prestigious awards and prizes annually to accomplished University of Cambridge faculty and students. It also issues some awards to those of varying global academic accomplishment regardless of whether their recipient is affiliated with the University of Cambridge.</p>
+<table style="width:40%">
+  <tr>
+    <th>AVG COST AFTER AID</th>
+    <th>GRADUATION RATE(%)</th>
+    <th>ACCEPTANCE RATE(%)</th>
+  </tr>
+  <tr>
+    <td>$15K</td>
+    <td>90%</td>
+    <td>11%</td>
+  </tr>
+</table><br>
+<h2 style="color:#2D68C4;">RANKINGS</h2>
+<ul>
+<li>#20 in National Universities (tie)</li>
+<li>#7 in Best Colleges for Veterans (tie)</li>
+<li>#164 in Best Value Schools</li>
+<li>#41 in Most Innovative Schools (tie)</li>
+<li>#46 in Top Performers on Social Mobility (tie)</li>
+<li>#1 in Top Public Schools (tie)</li>
+<li>#16 in Best Undergraduate Engineering Programs (tie)</li>
+</ul>
+</body>
+</html>
+
