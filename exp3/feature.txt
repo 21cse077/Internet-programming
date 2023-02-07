@@ -1,0 +1,42 @@
+<doctype html!>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+h1{
+background-color:green;
+}
+body {
+background-image: url("");    
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+    }
+}
+</style>
+</head>
+<body bgcolor="lightgreen">
+<body>
+<h1>FEATURES OF HERITAGE</h1>
+<a href="" position="right">
+ <img src="C:\Users\SKKR\Pictures\HOTEL.jpg" alt="not available" width="400" height="250" target="_parent">
+</a><br><br>
+<p>Culture describes the connection people have with historic places – what they feel, experience or do there. Our cultural experience is enriched by knowledge of the past.
+
+Culture to Māori could be considered as tangata whenua - identity.
+
+Spiritual connection People get involved in conservation projects at places that are special to them. They are creating a taonga or treasure that will be there for their children and many generations to come.
+
+Pilgrimage, our identity People make pilgrimages to places both in New Zealand and overseas to remember special events in our history. They may have a family connection or just a passion about a part of New Zealand history.
+
+Pasttimes, interests Hundreds take part in heritage events, collect antiques, and restore old machinery and buildings. They share this heritage with others, it is what they are interested in, what they spend their spare time doing.
+
+Traditional skills People still practice today skills from our past. They may carve, weave or work with old machinery, sometimes for their own enjoyment, often to undertake repairs, even as part of their job – this helps keep our heritage alive, especially if we pass these skills on to our children.</p>
+</body>
+</html>
+

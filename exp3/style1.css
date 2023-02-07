@@ -1,0 +1,30 @@
+slide.css
+body{
+margin: 0;
+padding: 0;
+background: #313131;
+}
+.slider{
+      width: 800px;
+      height: 400px;
+      background: url();
+      margin:100px auto;
+      animation: slide  20s infinite;
+}
+@keyframes slide{
+      25%{
+      background: url("https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.yongtai.com.my%2Fnews-release%2Fcourtyard-by-marriott%2Fcourtyard-by-marriott%2F&psig=AOvVaw1FOzvqBg0Wp8ZB_t-Cbie9&ust=1675870024015000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDhsL7cg_0CFQAAAAAdAAAAABAJ");
+}
+50%{
+      background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.marriott.com%2Fnews%2F2020%2F01%2F27%2Fmarriott-international-announces-seventh-consecutive-year-of-record-organic-worldwide-rooms-signings-in-2019-with-approximately-515-000-rooms-in-the-pipeline&psig=AOvVaw1FOzvqBg0Wp8ZB_t-Cbie9&ust=1675870024015000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDhsL7cg_0CFQAAAAAdAAAAABAO");
+}
+75%{
+      background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marriott.com%2Fen-us%2Fhotels%2Fblrjw-jw-marriott-hotel-bengaluru%2Foverview%2F&psig=AOvVaw1FOzvqBg0Wp8ZB_t-Cbie9&ust=1675870024015000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDhsL7cg_0CFQAAAAAdAAAAABAW");
+}
+80%{
+      background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kayak.co.in%2FBengaluru-Hotels-JW-Marriott-Hotel-Bengaluru.569562.ksp&psig=AOvVaw1FOzvqBg0Wp8ZB_t-Cbie9&ust=1675870024015000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDhsL7cg_0CFQAAAAAdAAAAABAe");
+}
+100% {
+      background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fbwhotelier.businessworld.in%2Farticle%2FIndore-Marriott-Hotel-turns-five%2F10-11-2022-453653&psig=AOvVaw1FOzvqBg0Wp8ZB_t-Cbie9&ust=1675870024015000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDhsL7cg_0CFQAAAAAdAAAAABAm");
+
+      }

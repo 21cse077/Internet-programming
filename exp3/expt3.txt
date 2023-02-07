@@ -1,0 +1,35 @@
+<doctype html!>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+body {
+background-image: url("");
+    
+background-repeat: repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+    }
+}
+</style>
+<style>
+h1{
+background-color:red;
+}
+</style>
+<title> LUXURY HOTEL </TITLE>
+</HEAD>
+<BODY>
+<div>
+<a href="login.html">-------------------------------------------------------------------------login/signin--------------------</a><a href="services.html">----------------------services-----------------</a><a href="features.html">-------------------------features-----------------------------------------</a>
+<h1>MARRIOT</H1>
+<a href="roombooking.html" position="right">
+ <img src="C:\Users\SKKR\Pictures\HERITAGE.png" alt="not available" width="400" height="250" target="_parent">
+ </a> 
+</body>
+</html>
